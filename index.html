@@ -13,17 +13,20 @@
             <!-- Itens serão adicionados aqui dinamicamente -->
         </ul>
         <p>Total: R$ <span id="total">0.00</span></p>
+        <div class="adicionar-item">
+            <h2>Adicionar Item</h2>
+           <div class="add">
+            <label for="nome">Nome do Item:</label>
+            <input type="text" id="nome">
+            <label for="preco">Preço do Item:</label>
+            <input type="number" id="preco" step="0.01">
+            <button id="adicionar">Adicionar</button>
+           </div>
+        </div>
         <button id="checkout">Checkout via WhatsApp</button>
     </div>
 
-    <div class="adicionar-item">
-        <h2>Adicionar Item</h2>
-        <label for="nome">Nome do Item:</label>
-        <input type="text" id="nome">
-        <label for="preco">Preço do Item:</label>
-        <input type="number" id="preco" step="0.01">
-        <button id="adicionar">Adicionar</button>
-    </div>
+
 
     <script src="script.js"></script>
 </body>
