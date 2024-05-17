@@ -31,6 +31,7 @@ html, body {
 
 b {
     font-family: 'PoppinsMedium', 'Rubik', sans-serif;
+    
 }
 
 .hidden {
@@ -145,19 +146,10 @@ a.navbar-brand {
     width: 50px;
 }
 
-.card-banner {
-    height: 450px;
-    width: 450px;
-    border-radius: 170px;
-    background-color: #f4c949;
-    position: absolute;
-    right: 0;
-    top: -80px;
-}
 
 .img-banner img {
     position: absolute;
-    width: 570px;
+    width: 370px;
     top: 30px;
     right: 15px;
 }
@@ -186,10 +178,7 @@ a.navbar-brand {
     bottom: 10px;
 }
 
-.servicos {
-    padding-top: 100px;
-    padding-bottom: 150px;
-}
+
 
 .hint-title {
     color: var(--color-primary);
@@ -232,13 +221,7 @@ a.navbar-brand {
     margin-bottom: 10px;
 }
 
-.background-servicos {
-    position: absolute;
-    left: 0;
-    right: 0;
-    height: 500px;
-    background-image: url(../images/bg-icons-2.png);
-}
+
 
 .cardapio {
     padding-top: 50px;
