@@ -61,7 +61,7 @@ a.navbar-brand {
 }
 
 .btn-white {
-    
+    margin-bottom:10px ;
     background-color: var(--color-white);
     color: var(--color-black)!important;
     border-radius: 20px;
@@ -250,7 +250,7 @@ a.navbar-brand {
 }
 
 .card-item {
-    height: 360px;
+    height: 260px;
     z-index: 8887;
 }
 

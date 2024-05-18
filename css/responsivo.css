@@ -93,20 +93,20 @@
         padding-bottom: 15px;
     }
 
-    .img-produto {
-        position: absolute;
-        left: 15px
-    }
+   
 
     .card-item {
-        height: 110px;
+        
+        height: 250px;
         padding-left: 110px;
         justify-content: center;
         align-items: start;
     }
 
     .card-item .img-produto img {
-        width: 80px;
+        width: 180px;
+        align-items: center;
+        justify-content: center;
     }
 
     .title-produto {

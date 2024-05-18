@@ -222,13 +222,7 @@ var MENU = {
             "dsc": "Unicorn Parade Milkshake Kit for 8",
             "price": 109
         },
-        {
-            "id": "chickpea-chiller-kit-for-6",
-            "img": "images/coca.jpg",
-            "name": "The Hummus & Pita Co.",
-            "dsc": "Chickpea Chiller Kit for 6",
-            "price": 89
-        },
+    
         {
             "id": "15194-old-honey-barn-mint-julep-mixer-200ml",
             "img": "images/coca.jpg",
