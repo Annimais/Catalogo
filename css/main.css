@@ -33,7 +33,15 @@ b {
     font-family: 'PoppinsMedium', 'Rubik', sans-serif;
     
 }
-
+#bb{
+    color: #000000;
+    
+}
+.jb{
+    color: #ff7b00;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 .hidden {
     display: none!important;
 }
@@ -53,12 +61,13 @@ a.navbar-brand {
 }
 
 .btn-white {
+    
     background-color: var(--color-white);
     color: var(--color-black)!important;
     border-radius: 20px;
     padding: 15px 25px;
     font-size: 20px;
-    box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
+    box-shadow: 5px 15px 15px -3px rgba(0, 0, 0, 0.5);
 }
 
 .btn-white.active, .btn-white:hover {
