@@ -9,16 +9,16 @@
 }
 
 :root {
-    --color-background: #fffdf7;
+    --color-background: #eff6ef;
     --color-black: #212121;
     --color-black-heavy: #000000;
     --color-text: #4f4f4f;
     --color-text-out: #90908e;
-    --color-primary: #ff7b00;
-    --color-secondary: #fff2cc;
+    --color-primary: #369f50;
+    --color-secondary: #c6edc2;
     --color-white: #ffffff;
     --color-red: #d61904;
-    --color-green: #2ecc71;
+    --color-green: #213e2d;
     --color-separate: #cccccc;
 }
 
