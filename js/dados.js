@@ -255,77 +255,77 @@ var MENU = {
     "sushi1": [
         {
             "id": "2-lou-malnatis-deep-dish-pizzas",
-            "img": "images/2.png", 
+            "img": "images/cama01.jpeg", 
             "name": "Lou Malnati's Pizza",
             "dsc": "2 Lou Malnati's Deep Dish Pizzas",
             "price": 67.99
         },
         {
             "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
-            "img": "images/2.png", 
+            "img": "images/cama02.jpeg", 
             "name": "Bartolini's",
             "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
             "price": 139
         },
         {
             "id": "choose-your-own-new-haven-style-pizza-6-pack",
-            "img": "images/2.png", 
+            "img": "images/cama03.jpeg", 
             "name": "Zuppardi's Apizza",
             "dsc": "New Haven-Style Pizza - 6 Pack (Choose Your Own)",
             "price": 79
         },
         {
             "id": "6-lou-malnatis-deep-dish-pizzas",
-            "img": "images/2.png", 
+            "img": "images/cama04.jpeg", 
             "name": "Lou Malnati's Pizza",
             "dsc": "6 Lou Malnati's Deep Dish Pizzas",
             "price": 116.99
         },
         {
             "id": "wood-fired-pizzas-best-seller-4-pack",
-            "img": "images/2.png", 
+            "img": "images/cama05.jpeg", 
             "name": "Pizzeria Bianco",
             "dsc": "Wood Fired Pizzas Best Seller - 4 Pack",
             "price": 129
         },
         {
             "id": "236991-choose-your-own-deep-dish-pizza-3-pack",
-            "img": "images/2.png", 
+            "img": "images/cama06.jpeg", 
             "name": "Bartolini's",
             "dsc": "Choose Your Own Deep Dish Pizza - 3 Pack",
             "price": 139
         },
         {
             "id": "choose-your-own-detroit-style-pizza-3-pack",
-            "img": "images/2.png", 
+            "img": "images/cama07.jpeg", 
             "name": "Emmy Squared",
             "dsc": "Detroit-Style Pizza - Choose Your Own 3 Pack",
             "price": 89
         },
         {
             "id": "brooklyn-pizza-choose-your-own-5-pack",
-            "img": "images/2.png", 
+            "img": "images/cama08.jpeg", 
             "name": "Paesan's Pizza",
             "dsc": "Brooklyn Pizza - Choose Your Own 5 Pack",
             "price": 69
         },
         {
             "id": "choose-your-own-chicago-deep-dish-pizza-4-pack",
-            "img": "images/2.png", 
+            "img": "images/cama09.jpeg", 
             "name": "My Pi Pizza",
             "dsc": "Chicago Deep Dish Pizza - 4 Pack",
             "price": 129
         },
         {
             "id": "4-lou-malnatis-deep-dish-pizzas",
-            "img": "images/2.png", 
+            "img": "images/cama10.jpeg", 
             "name": "Lou Malnati's Pizza",
             "dsc": "4 Lou Malnati's Deep Dish Pizzas",
             "price": 96.99
         },
         {
             "id": "tonys-custom-pizza-3-pack",
-            "img": "images/2.png", 
+            "img": "images/cama11.jpeg", 
             "name": "Tony's Pizza Napoletana",
             "dsc": "Choose Your Own Pizza - 3 Pack",
             "price": 99
